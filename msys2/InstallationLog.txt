@@ -1,0 +1,118 @@
+************************************* Invoked: Fri Jul 24 07:31:19 2020
+[0] Arguments: C:\Users\Administrator\Downloads\msys2-x86_64-20200720.exe
+[10] Operations sanity check succeeded.
+[6403] Warning: Empty filename passed to function
+[6404] Warning: Empty filename passed to function
+[6405] Warning: Empty filename passed to function
+[6425] Warning: Empty filename passed to function
+[6425] Warning: Empty filename passed to function
+[6426] Warning: Empty filename passed to function
+[6427] Warning: Empty filename passed to function
+[6427] Warning: Empty filename passed to function
+[6428] Warning: Empty filename passed to function
+[6429] Warning: Empty filename passed to function
+[6429] Warning: Empty filename passed to function
+[6430] Warning: Empty filename passed to function
+[6431] Warning: Empty filename passed to function
+[6431] Warning: Empty filename passed to function
+[6432] Warning: Empty filename passed to function
+[6603] Warning: Empty filename passed to function
+[6604] Warning: Empty filename passed to function
+[6604] Warning: Empty filename passed to function
+[6605] Warning: Empty filename passed to function
+[6606] Warning: Empty filename passed to function
+[6606] Warning: Empty filename passed to function
+[16527] Warning: Empty filename passed to function
+[16528] Warning: Empty filename passed to function
+[16529] Warning: Empty filename passed to function
+[16529] Warning: Empty filename passed to function
+[16530] Warning: Empty filename passed to function
+[16530] Warning: Empty filename passed to function
+[16868] Warning: Empty filename passed to function
+[16868] Warning: Empty filename passed to function
+[16869] Warning: Empty filename passed to function
+[16869] Warning: Empty filename passed to function
+[16870] Warning: Empty filename passed to function
+[16871] Warning: Empty filename passed to function
+[17648] Warning: Empty filename passed to function
+[17649] Warning: Empty filename passed to function
+[17650] Warning: Empty filename passed to function
+[17650] Warning: Empty filename passed to function
+[17651] Warning: Empty filename passed to function
+[17652] Warning: Empty filename passed to function
+[19992] Warning: Empty filename passed to function
+[19993] Warning: Empty filename passed to function
+[19993] Warning: Empty filename passed to function
+[19993] Warning: Empty filename passed to function
+[19994] Warning: Empty filename passed to function
+[19994] Warning: Empty filename passed to function
+[20978] Warning: Empty filename passed to function
+[20978] Warning: Empty filename passed to function
+[20978] Warning: Empty filename passed to function
+[36274] backup  operation: Mkdir
+[36274] 	- arguments: C:/Users/Administrator/Documents/GitHub/CykaBlyat-Tools/msys2
+[36275] Done
+[36276] perform  operation: Mkdir
+[36276] 	- arguments: C:/Users/Administrator/Documents/GitHub/CykaBlyat-Tools/msys2
+[36276] Done
+[36278] Install size: 2 components
+[36437] backup com.msys2.root.base operation: Extract
+[36438] 	- arguments: installer://com.msys2.root.base/20200720msys64.7z, C:\Users\Administrator\Documents\GitHub\CykaBlyat-Tools\msys2
+[36438] Done
+[36440] perform com.msys2.root.base operation: Extract
+[36440] 	- arguments: installer://com.msys2.root.base/20200720msys64.7z, C:\Users\Administrator\Documents\GitHub\CykaBlyat-Tools\msys2
+[281778] Done
+[281779] backup com.msys2.root.base operation: CreateShortcut
+[281779] 	- arguments: C:\Users\Administrator\Documents\GitHub\CykaBlyat-Tools\msys2\msys2_shell.cmd, C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 MinGW 32-bit.lnk, -mingw32, iconPath=C:\Users\Administrator\Documents\GitHub\CykaBlyat-Tools\msys2/mingw32.exe
+[281779] Done
+[281779] perform com.msys2.root.base operation: CreateShortcut
+[281779] 	- arguments: C:\Users\Administrator\Documents\GitHub\CykaBlyat-Tools\msys2\msys2_shell.cmd, C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 MinGW 32-bit.lnk, -mingw32
+[281994] Done
+[281995] backup com.msys2.root.base operation: CreateShortcut
+[281995] 	- arguments: C:\Users\Administrator\Documents\GitHub\CykaBlyat-Tools\msys2\msys2_shell.cmd, C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 MinGW 64-bit.lnk, -mingw64, iconPath=C:\Users\Administrator\Documents\GitHub\CykaBlyat-Tools\msys2/mingw64.exe
+[281995] Done
+[281995] perform com.msys2.root.base operation: CreateShortcut
+[281995] 	- arguments: C:\Users\Administrator\Documents\GitHub\CykaBlyat-Tools\msys2\msys2_shell.cmd, C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 MinGW 64-bit.lnk, -mingw64
+[282085] Done
+[282085] backup com.msys2.root.base operation: CreateShortcut
+[282085] 	- arguments: C:\Users\Administrator\Documents\GitHub\CykaBlyat-Tools\msys2\msys2_shell.cmd, C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 MSYS.lnk, -msys, iconPath=C:\Users\Administrator\Documents\GitHub\CykaBlyat-Tools\msys2/msys2.exe
+[282085] Done
+[282086] perform com.msys2.root.base operation: CreateShortcut
+[282086] 	- arguments: C:\Users\Administrator\Documents\GitHub\CykaBlyat-Tools\msys2\msys2_shell.cmd, C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 MSYS.lnk, -msys
+[282152] Done
+[282152] backup com.msys2.root.base operation: Execute
+[282152] 	- arguments: C:\Users\Administrator\Documents\GitHub\CykaBlyat-Tools\msys2\usr\bin\bash.exe, --login, -c, exit
+[282152] Done
+[282153] perform com.msys2.root.base operation: Execute
+[282153] 	- arguments: C:\Users\Administrator\Documents\GitHub\CykaBlyat-Tools\msys2\usr\bin\bash.exe, --login, -c, exit
+[283582] C:\\Users\\Administrator\\Documents\\GitHub\\CykaBlyat-Tools\\msys2\\usr\\bin\\bash.exe" started, arguments: "--login -c exit
+[299019] Copying skeleton files.\nThese files are for the users to personalise their msys2 experience.\n\nThey will never be overwritten nor automatically updated.\n\n
+[301655] './.bashrc' -> '/home/Administrator/.bashrc'\n
+[301806] './.bash_logout' -> '/home/Administrator/.bash_logout'\n
+[302118] './.bash_profile' -> '/home/Administrator/.bash_profile'\n
+[302751] './.inputrc' -> '/home/Administrator/.inputrc'\n
+[303062] './.profile' -> '/home/Administrator/.profile'\n
+[306198] 'C:\\windows\\system32\\drivers\\etc\\hosts' -> '/etc/hosts'\n
+[306832] 'C:\\windows\\system32\\drivers\\etc\\protocol' -> '/etc/protocols'\n
+[307465] 'C:\\windows\\system32\\drivers\\etc\\services' -> '/etc/services'\n
+[307778] 'C:\\windows\\system32\\drivers\\etc\\networks' -> '/etc/networks'\n
+[339540] ==> Updating trust database...\n
+[342687] ==> Appending keys from msys2.gpg...\n
+[344320] ==> Locally signing trusted keys in keyring...\n
+[344954]   -> Locally signing key 6E8FEAFF9644F54EED90EEA0790AE56A1D3CFDDC...\n
+[347089]   -> Locally signing key D55E7A6D7CE9BA1587C0ACACF40D263ECA25678A...\n
+[349225]   -> Locally signing key 123D4D51A1793859C2BE916BBBE514E53E0D0813...\n
+[350862]   -> Locally signing key B91BCF3303284BF90CC043CA9F418C233E652008...\n
+[352495]   -> Locally signing key 9DD0D4217D75A33B896159E6DA7EF2ABAEEA755C...\n
+[354130]   -> Locally signing key 69985C5EB351011C78DF7F6D755B8182ACD22879...\n
+[355766] ==> Importing owner trust values...\n
+[356712] ==> Disabling revoked keys in keyring...\n
+[357024]   -> Disabling key B19514FB53EB3668471B296E794DCF97F93FC717...\n
+[358659] ==> Updating trust database...\n
+[401607] \x1B[H\x1B[2J\x1B[3J\n\n###################################################################\n#                                                                 #\n#                                                                 #\n#                   C   A   U   T   I   O   N                     #\n#                                                                 #\n#                  This is first start of MSYS2.                  #\n#       You MUST restart shell to apply necessary actions.        #\n#                                                                 #\n#                                                                 #\n###################################################################\n\n\n
+[401702] \x1B[H\x1B[2J\x1B[3J
+[401702] Done
+[401731] Writing maintenance tool: "C:\\Users\\Administrator\\Documents\\GitHub\\CykaBlyat-Tools\\msys2/maintenancetool.exe.new"
+[402091] Wrote permissions for maintenance tool.
+[402478] Maintenance tool restart: false.
+[422203] starting "C:\\Users\\Administrator\\Documents\\GitHub\\CykaBlyat-Tools\\msys2/msys2_shell.cmd" ()
